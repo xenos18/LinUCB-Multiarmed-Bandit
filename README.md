@@ -1,1 +1,1 @@
-# LinUCB Multiatmed Bandit
+# LinUCB Multiarmed Bandit
